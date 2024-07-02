@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1719901883,,"wq!"
 :q!
 |2,0,1719897786,,"q!"
-:wq!
-|2,0,1719897784,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -42,34 +42,74 @@
 |3,0,5,1,1,0,1719895249," tasks file for custom-webserver"
 
 # File marks:
-'0  6  12  /etc/hosts
-|4,48,6,12,1719897786,"/etc/hosts"
-'1  18  1  ~/custom-webserver/tasks/main.yml
-|4,49,18,1,1719897603,"~/custom-webserver/tasks/main.yml"
-'2  18  19  ~/custom-webserver/tasks/main.yml
-|4,50,18,19,1719897263,"~/custom-webserver/tasks/main.yml"
-'3  15  5  ~/custom-webserver/tasks/main.yml
-|4,51,15,5,1719897007,"~/custom-webserver/tasks/main.yml"
-'4  15  5  ~/custom-webserver/tasks/main.yml
-|4,52,15,5,1719897007,"~/custom-webserver/tasks/main.yml"
-'5  15  5  ~/custom-webserver/tasks/main.yml
-|4,53,15,5,1719897007,"~/custom-webserver/tasks/main.yml"
+'0  3  12  ~/custom-webserver/meta/main.yml
+|4,48,3,12,1719901883,"~/custom-webserver/meta/main.yml"
+'1  42  16  ~/custom-webserver/meta/main.yml
+|4,49,42,16,1719901861,"~/custom-webserver/meta/main.yml"
+'2  42  16  ~/custom-webserver/meta/main.yml
+|4,50,42,16,1719901861,"~/custom-webserver/meta/main.yml"
+'3  6  12  /etc/hosts
+|4,51,6,12,1719897786,"/etc/hosts"
+'4  18  1  ~/custom-webserver/tasks/main.yml
+|4,52,18,1,1719897603,"~/custom-webserver/tasks/main.yml"
+'5  18  19  ~/custom-webserver/tasks/main.yml
+|4,53,18,19,1719897263,"~/custom-webserver/tasks/main.yml"
 '6  15  5  ~/custom-webserver/tasks/main.yml
 |4,54,15,5,1719897007,"~/custom-webserver/tasks/main.yml"
 '7  15  5  ~/custom-webserver/tasks/main.yml
-|4,55,15,5,1719896726,"~/custom-webserver/tasks/main.yml"
+|4,55,15,5,1719897007,"~/custom-webserver/tasks/main.yml"
 '8  15  5  ~/custom-webserver/tasks/main.yml
-|4,56,15,5,1719896726,"~/custom-webserver/tasks/main.yml"
+|4,56,15,5,1719897007,"~/custom-webserver/tasks/main.yml"
 '9  15  5  ~/custom-webserver/tasks/main.yml
-|4,57,15,5,1719896726,"~/custom-webserver/tasks/main.yml"
+|4,57,15,5,1719897007,"~/custom-webserver/tasks/main.yml"
 
 # Jumplist (newest first):
+-'  3  12  ~/custom-webserver/meta/main.yml
+|4,39,3,12,1719901883,"~/custom-webserver/meta/main.yml"
+-'  42  16  ~/custom-webserver/meta/main.yml
+|4,39,42,16,1719901872,"~/custom-webserver/meta/main.yml"
+-'  42  16  ~/custom-webserver/meta/main.yml
+|4,39,42,16,1719901861,"~/custom-webserver/meta/main.yml"
+-'  1  0  ~/custom-webserver/meta/main.yml
+|4,39,1,0,1719901812,"~/custom-webserver/meta/main.yml"
+-'  1  0  ~/custom-webserver/meta/main.yml
+|4,39,1,0,1719901812,"~/custom-webserver/meta/main.yml"
+-'  6  12  /etc/hosts
+|4,39,6,12,1719897786,"/etc/hosts"
+-'  6  12  /etc/hosts
+|4,39,6,12,1719897786,"/etc/hosts"
+-'  6  12  /etc/hosts
+|4,39,6,12,1719897786,"/etc/hosts"
 -'  6  12  /etc/hosts
 |4,39,6,12,1719897786,"/etc/hosts"
 -'  18  1  ~/custom-webserver/tasks/main.yml
 |4,39,18,1,1719897603,"~/custom-webserver/tasks/main.yml"
 -'  18  1  ~/custom-webserver/tasks/main.yml
 |4,39,18,1,1719897603,"~/custom-webserver/tasks/main.yml"
+-'  18  1  ~/custom-webserver/tasks/main.yml
+|4,39,18,1,1719897603,"~/custom-webserver/tasks/main.yml"
+-'  18  1  ~/custom-webserver/tasks/main.yml
+|4,39,18,1,1719897603,"~/custom-webserver/tasks/main.yml"
+-'  18  1  ~/custom-webserver/tasks/main.yml
+|4,39,18,1,1719897603,"~/custom-webserver/tasks/main.yml"
+-'  18  1  ~/custom-webserver/tasks/main.yml
+|4,39,18,1,1719897603,"~/custom-webserver/tasks/main.yml"
+-'  18  1  ~/custom-webserver/tasks/main.yml
+|4,39,18,1,1719897603,"~/custom-webserver/tasks/main.yml"
+-'  18  1  ~/custom-webserver/tasks/main.yml
+|4,39,18,1,1719897603,"~/custom-webserver/tasks/main.yml"
+-'  18  19  ~/custom-webserver/tasks/main.yml
+|4,39,18,19,1719897263,"~/custom-webserver/tasks/main.yml"
+-'  18  19  ~/custom-webserver/tasks/main.yml
+|4,39,18,19,1719897263,"~/custom-webserver/tasks/main.yml"
+-'  18  19  ~/custom-webserver/tasks/main.yml
+|4,39,18,19,1719897263,"~/custom-webserver/tasks/main.yml"
+-'  18  19  ~/custom-webserver/tasks/main.yml
+|4,39,18,19,1719897263,"~/custom-webserver/tasks/main.yml"
+-'  18  19  ~/custom-webserver/tasks/main.yml
+|4,39,18,19,1719897263,"~/custom-webserver/tasks/main.yml"
+-'  18  19  ~/custom-webserver/tasks/main.yml
+|4,39,18,19,1719897263,"~/custom-webserver/tasks/main.yml"
 -'  18  19  ~/custom-webserver/tasks/main.yml
 |4,39,18,19,1719897263,"~/custom-webserver/tasks/main.yml"
 -'  18  19  ~/custom-webserver/tasks/main.yml
@@ -83,9 +123,57 @@
 -'  15  5  ~/custom-webserver/tasks/main.yml
 |4,39,15,5,1719897037,"~/custom-webserver/tasks/main.yml"
 -'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719897037,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719897037,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719897037,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719897037,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719897037,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719897037,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719897037,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719897037,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719897037,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719897037,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719897037,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719897037,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
 |4,39,15,5,1719897007,"~/custom-webserver/tasks/main.yml"
 -'  15  5  ~/custom-webserver/tasks/main.yml
 |4,39,15,5,1719897007,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719897007,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719897007,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719897007,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719897007,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719897007,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719897007,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719896726,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719896726,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719896726,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719896726,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719896726,"~/custom-webserver/tasks/main.yml"
+-'  15  5  ~/custom-webserver/tasks/main.yml
+|4,39,15,5,1719896726,"~/custom-webserver/tasks/main.yml"
 -'  15  5  ~/custom-webserver/tasks/main.yml
 |4,39,15,5,1719896726,"~/custom-webserver/tasks/main.yml"
 -'  15  5  ~/custom-webserver/tasks/main.yml
@@ -94,6 +182,30 @@
 |4,39,15,10,1719896691,"~/custom-webserver/tasks/main.yml"
 -'  15  10  ~/custom-webserver/tasks/main.yml
 |4,39,15,10,1719896691,"~/custom-webserver/tasks/main.yml"
+-'  15  10  ~/custom-webserver/tasks/main.yml
+|4,39,15,10,1719896691,"~/custom-webserver/tasks/main.yml"
+-'  15  10  ~/custom-webserver/tasks/main.yml
+|4,39,15,10,1719896691,"~/custom-webserver/tasks/main.yml"
+-'  15  10  ~/custom-webserver/tasks/main.yml
+|4,39,15,10,1719896691,"~/custom-webserver/tasks/main.yml"
+-'  15  10  ~/custom-webserver/tasks/main.yml
+|4,39,15,10,1719896691,"~/custom-webserver/tasks/main.yml"
+-'  15  10  ~/custom-webserver/tasks/main.yml
+|4,39,15,10,1719896691,"~/custom-webserver/tasks/main.yml"
+-'  15  10  ~/custom-webserver/tasks/main.yml
+|4,39,15,10,1719896691,"~/custom-webserver/tasks/main.yml"
+-'  15  10  ~/custom-webserver/tasks/main.yml
+|4,39,15,10,1719896606,"~/custom-webserver/tasks/main.yml"
+-'  15  10  ~/custom-webserver/tasks/main.yml
+|4,39,15,10,1719896606,"~/custom-webserver/tasks/main.yml"
+-'  15  10  ~/custom-webserver/tasks/main.yml
+|4,39,15,10,1719896606,"~/custom-webserver/tasks/main.yml"
+-'  15  10  ~/custom-webserver/tasks/main.yml
+|4,39,15,10,1719896606,"~/custom-webserver/tasks/main.yml"
+-'  15  10  ~/custom-webserver/tasks/main.yml
+|4,39,15,10,1719896606,"~/custom-webserver/tasks/main.yml"
+-'  15  10  ~/custom-webserver/tasks/main.yml
+|4,39,15,10,1719896606,"~/custom-webserver/tasks/main.yml"
 -'  15  10  ~/custom-webserver/tasks/main.yml
 |4,39,15,10,1719896606,"~/custom-webserver/tasks/main.yml"
 -'  15  10  ~/custom-webserver/tasks/main.yml
@@ -122,150 +234,46 @@
 |4,39,17,9,1719896599,"~/custom-webserver/tasks/main.yml"
 -'  17  9  ~/custom-webserver/tasks/main.yml
 |4,39,17,9,1719896599,"~/custom-webserver/tasks/main.yml"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
--'  40  0  /etc/ansible/hosts
-|4,39,40,0,1719896452,"/etc/ansible/hosts"
+-'  17  9  ~/custom-webserver/tasks/main.yml
+|4,39,17,9,1719896599,"~/custom-webserver/tasks/main.yml"
+-'  17  9  ~/custom-webserver/tasks/main.yml
+|4,39,17,9,1719896599,"~/custom-webserver/tasks/main.yml"
+-'  17  9  ~/custom-webserver/tasks/main.yml
+|4,39,17,9,1719896599,"~/custom-webserver/tasks/main.yml"
+-'  17  9  ~/custom-webserver/tasks/main.yml
+|4,39,17,9,1719896599,"~/custom-webserver/tasks/main.yml"
+-'  17  9  ~/custom-webserver/tasks/main.yml
+|4,39,17,9,1719896599,"~/custom-webserver/tasks/main.yml"
+-'  17  9  ~/custom-webserver/tasks/main.yml
+|4,39,17,9,1719896599,"~/custom-webserver/tasks/main.yml"
+-'  17  9  ~/custom-webserver/tasks/main.yml
+|4,39,17,9,1719896599,"~/custom-webserver/tasks/main.yml"
+-'  17  9  ~/custom-webserver/tasks/main.yml
+|4,39,17,9,1719896599,"~/custom-webserver/tasks/main.yml"
+-'  17  9  ~/custom-webserver/tasks/main.yml
+|4,39,17,9,1719896599,"~/custom-webserver/tasks/main.yml"
+-'  17  9  ~/custom-webserver/tasks/main.yml
+|4,39,17,9,1719896599,"~/custom-webserver/tasks/main.yml"
+-'  17  9  ~/custom-webserver/tasks/main.yml
+|4,39,17,9,1719896599,"~/custom-webserver/tasks/main.yml"
+-'  17  9  ~/custom-webserver/tasks/main.yml
+|4,39,17,9,1719896599,"~/custom-webserver/tasks/main.yml"
+-'  17  9  ~/custom-webserver/tasks/main.yml
+|4,39,17,9,1719896599,"~/custom-webserver/tasks/main.yml"
+-'  17  9  ~/custom-webserver/tasks/main.yml
+|4,39,17,9,1719896599,"~/custom-webserver/tasks/main.yml"
+-'  17  9  ~/custom-webserver/tasks/main.yml
+|4,39,17,9,1719896599,"~/custom-webserver/tasks/main.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/custom-webserver/meta/main.yml
+	*	1719901881	0
+	"	3	12
+	^	3	13
+	.	3	12
+	+	2	20
+	+	3	12
 
 > /etc/hosts
 	*	1719897670	0
