@@ -1,0 +1,7 @@
+---
+- name: Main Yml 
+  hosts: webservers
+  become: yes
+  become_user: root
+  roles:
+    - custom-webserver
